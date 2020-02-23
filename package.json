@@ -1,5 +1,5 @@
 {
-  "name": "dockerTest-hellonode",
+  "name": "dockertest-hellonode",
   "version": "1.0.0",
   "description": "A Hello World HTTP server",
   "main": "serve.js",
